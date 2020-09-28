@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue_test01
 
 ## Project setup
@@ -17,3 +18,7 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# 1911E
+1911
+>>>>>>> c2ffe72ec6ff6e9ea62fe79aec1c021521b7977a
